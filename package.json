@@ -10,7 +10,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "axios": "^1.8.2",
+    "axios": "^1.13.5",
     "chart.js": "^4.4.0",
     "flowise-embed": "^1.0.15",
     "flowise-embed-react": "^1.0.2",
